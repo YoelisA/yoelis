@@ -3,8 +3,8 @@ layout = "page"
 subtitle = "bla"
 title = "blabla"
 [menu.main]
-name = "ok"
-weight = 3
+name = "CV"
+weight = 2
 
 +++
 taptap
