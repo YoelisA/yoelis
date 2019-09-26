@@ -11,6 +11,25 @@ sections:
 
     Test test
   image: ''
+- template: contentblock
+  component: content_block.html
+  type: contentblock
+  title: ''
+  section_id: ''
+  content: ''
+- template: contentblock
+  component: content_block.html
+  type: contentblock
+  title: ''
+  section_id: ''
+  content: ''
+- template: heroblock
+  component: hero_block.html
+  type: heroblock
+  title: ''
+  section_id: ''
+  subtitle: ''
+  image: ''
 layout: home
 menu:
   main:
