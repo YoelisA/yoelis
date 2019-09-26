@@ -1,3 +1,6 @@
 ---
 content: "© Yoelis Acourt All rights reserved."
-links: []
+links:
+- text: Gitlab
+  url: https://gitlab.com/YoelisA
+  new_window: true
