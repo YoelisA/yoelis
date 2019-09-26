@@ -1,3 +1,8 @@
 {
-    "links": []
+  "links": [
+    {
+      "type": "mindz",
+      "url": "http://studio.mindz.io"
+    }
+  ]
 }
