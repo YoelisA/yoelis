@@ -20,6 +20,6 @@ fields:
   config:
     required: true
 pages:
+- content/elements.md
 - content/ipsum.md
 - content/generic.md
-- content/elements.md
