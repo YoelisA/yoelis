@@ -6,7 +6,10 @@ sections:
   title: Yoelis personal website
   section_id: hero
   component: hero_block.html
-  subtitle: "### Premier article"
+  subtitle: |-
+    # Premier article
+
+    Test test
   image: ''
 layout: home
 menu:
