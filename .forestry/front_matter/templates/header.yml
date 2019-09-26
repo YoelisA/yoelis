@@ -14,3 +14,7 @@ fields:
   label: Navigation Menu
   description: Display the navigation bar in the header
   default: true
+- name: toggle
+  type: boolean
+  label: toggle
+  description: ok
