@@ -20,4 +20,5 @@ fields:
   config:
     required: true
 pages:
+- content/blabla.md
 - content/testtest.md
