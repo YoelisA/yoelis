@@ -37,4 +37,5 @@ fields:
   config:
     required: true
 pages:
+- content/posts/projet1.md
 - content/posts/pop.md
