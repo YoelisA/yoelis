@@ -20,6 +20,7 @@ fields:
   config:
     required: true
 pages:
+- content/projets.md
 - content/contact.md
 - content/articles.md
 - content/cv.md
