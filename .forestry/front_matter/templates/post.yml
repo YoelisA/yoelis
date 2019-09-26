@@ -36,6 +36,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- content/posts/sed.md
-- content/posts/magna.md
