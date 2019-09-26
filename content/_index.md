@@ -3,11 +3,11 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Yoelis Acourt est un super dvlpr
+  title: Yoelis personal website
   section_id: hero
   component: hero_block.html
-  subtitle: "### This is a super-cool hero subhead."
-  image: images/avatar.png
+  subtitle: "### Premier article"
+  image: ''
 layout: home
 menu:
   main:
