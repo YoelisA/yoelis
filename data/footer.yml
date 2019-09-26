@@ -1,6 +1,9 @@
 ---
 content: "© Yoelis Acourt All rights reserved."
 links:
+- text: Email
+  url: mailto:acourt.yoelis@gmail.com
+  new_window: true
 - text: Gitlab
   url: https://gitlab.com/YoelisA
   new_window: true
