@@ -3,6 +3,6 @@ layout = "page"
 subtitle = ""
 title = "Articles"
 [menu.main]
-weight = 4
+weight = 2
 
 +++
