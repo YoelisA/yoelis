@@ -10,7 +10,7 @@ sections:
     # Premier article
 
     Test test
-  image: ''
+  image: "/images/yoelis_pic.png"
 layout: home
 menu:
   main:
