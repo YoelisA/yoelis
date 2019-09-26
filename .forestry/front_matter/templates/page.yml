@@ -19,6 +19,3 @@ fields:
   default: page
   config:
     required: true
-pages:
-- content/elements.md
-- content/ipsum.md
